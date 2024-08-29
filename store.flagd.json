@@ -1,0 +1,59 @@
+{
+        "$schema": "https://flagd.dev/schema/v0/flags.json",
+        "flags": {
+          "is_only_sf_proposes": {
+            "state": "ENABLED",
+            "defaultVariant": "false",
+            "variants": {
+              "true": true,
+              "false": false
+            },
+            "targeting": {}
+          },
+          "disable_sending_sms_for_project_reports": {
+            "state": "ENABLED",
+            "defaultVariant": "false",
+            "variants": {
+              "true": true,
+              "false": false
+            },
+            "targeting": {}
+          },
+          "disabled_features": {
+            "state": "ENABLED",
+            "defaultVariant": "false",
+            "variants": {
+              "true": true,
+              "false": false
+            },
+            "targeting": {}
+          },
+          "redis_cache_enabled": {
+            "state": "ENABLED",
+            "defaultVariant": "false",
+            "variants": {
+              "true": true,
+              "false": false
+            },
+            "targeting": {}
+          },
+          "simplified_queries": {
+            "state": "ENABLED",
+            "defaultVariant": "false",
+            "variants": {
+              "true": true,
+              "false": false
+            },
+            "targeting": {}
+          },
+          "for_testing": {
+            "state": "ENABLED",
+            "defaultVariant": "false",
+            "variants": {
+              "true": true,
+              "false": false
+            },
+            "targeting": {}
+          }
+        }
+      }
