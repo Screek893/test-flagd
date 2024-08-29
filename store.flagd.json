@@ -3,7 +3,7 @@
         "flags": {
           "is_only_sf_proposes": {
             "state": "ENABLED",
-            "defaultVariant": "false",
+            "defaultVariant": "true",
             "variants": {
               "true": true,
               "false": false
